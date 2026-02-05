@@ -157,7 +157,7 @@ const logout = () => {
   background: rgba(255, 255, 255, 0.1);
 }
 
-/* Центр: Поиск */
+
 .header-center {
   flex: 1;
   max-width: 600px;
